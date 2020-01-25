@@ -4,7 +4,8 @@
   "description": "Minimal Eleventy site",
   "main": "index.js",
   "scripts": {
-    "start": "eleventy --serve"
+    "clear-site": "rm -rf _site",
+    "start": "npm run clear-site && eleventy --serve"
   },
   "author": "Brian Gershon",
   "license": "MIT",
