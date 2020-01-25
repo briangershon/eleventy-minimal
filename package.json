@@ -1,0 +1,14 @@
+{
+  "name": "eleventy-minimal",
+  "version": "1.0.0",
+  "description": "Minimal Eleventy site",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve"
+  },
+  "author": "Brian Gershon",
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  }
+}
