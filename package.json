@@ -10,7 +10,7 @@
   "author": "Brian Gershon",
   "license": "MIT",
   "dependencies": {
-    "@11ty/eleventy": "^0.11.0",
+    "@11ty/eleventy": "^0.11.1",
     "acorn": "^8.0.4",
     "minimist": "^1.2.5"
   }
