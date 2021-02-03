@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "@11ty/eleventy": "^0.11.1",
-    "acorn": "^8.0.4",
+    "acorn": "^8.0.5",
     "minimist": "^1.2.5"
   }
 }
